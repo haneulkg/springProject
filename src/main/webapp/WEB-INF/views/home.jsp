@@ -60,7 +60,12 @@
 		<a href="${ctp}/btom/b4" class="btn btn-primary">b4</a> |
 		<a href="${ctp}/btom/b5" class="btn btn-success">b5</a> |
 		<a href="${ctp}/btom/b6" class="btn btn-primary">b6</a> |
-		<a href="${ctp}/btom/b7" class="btn btn-success">b7</a>
+		<a href="${ctp}/btom/b7" class="btn btn-success">b7</a> |
+		<a href="${ctp}/btom/b8" class="btn btn-primary">b8</a>
+	</p>
+	<hr/>
+	<p>
+		<a href="${ctp}/ctom/c1" class="btn btn-primary">c1</a> |
 	</p>
 </div>
 </body>
